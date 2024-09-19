@@ -1,3 +1,7 @@
 Q1: Why might we consider using git?
 
 Answer: Git is extremly useful for version control and ensuring multiple different developers can work on the same project simultaneously while still being organized.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be utilized in the field of Economics, as economists must analyze large datasetsif they are trying to determine the current state of inflation or economic health at the macroeconomic level.
