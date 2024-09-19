@@ -1,0 +1,3 @@
+Q1: Why might we consider using git?
+
+Answer: Git is extremly useful for version control and ensuring multiple different developers can work on the same project simultaneously while still being organized.
