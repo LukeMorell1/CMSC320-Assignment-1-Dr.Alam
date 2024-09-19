@@ -4,4 +4,12 @@ Answer: Git is extremly useful for version control and ensuring multiple differe
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: Data science can be utilized in the field of Economics, as economists must analyze large datasetsif they are trying to determine the current state of inflation or economic health at the macroeconomic level.
+Answer: Data science can be utilized in the field of Marcoeconomics in order to analyze the current health of the economy. The entire economy is very large, so trying to pinpoint inflation or recesionnary indicators requires sifting through millions of data points, which is what data science is designed to do.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Both commands allow a developer to directly incorporate the changes they made in one branch to another branch (eg: feature -> main). However, Git merge ties the histories of both branches together (preserving the history of the source branch) while Git rebase essentially creates a new branch where the commit histories of the two branches become one, and the commit history of the original branch is rewritten in order to preserve a linear commit history.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I would like to improve my Python, data analysis, and critical thinking skills in this course
